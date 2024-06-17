@@ -110,3 +110,27 @@ This analysis aims to uncover the different customers segments, purchase trends 
 3.Which city has the largest tax percent/ VAT (Value Added Tax)?
 
 4.Which customer type pays the most in VAT?
+
+## 3.HR-Analyis 
+
+1. What is the gender breakdown of employees in the company?
+
+2. What is the race breakdown of employees in the company?
+
+3. What is the age distribution of employees in the company?
+
+4. How many employees work at HQ vs remote?
+
+5. What is the average length of employement who have been teminated?
+
+6. How does the gender distribution vary acorss dept. and job titles?
+
+7. What is the distribution of jobtitles acorss the company?
+
+8. Which dept has the higher turnover/termination rate?
+
+9. What is the distribution of employees across location_state?
+
+10. How has the companys employee count changed over time based on hire and termination date?
+
+11. What is the tenure distribution for each dept?
