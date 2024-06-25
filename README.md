@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## 1. Pizza-Store-Analyis
+## Project 1. Pizza-Store-Analyis
 
 ## Purpose of the Project
 The major aim of thie project is to gain insight into the Pizza store dataset and find below answers.
@@ -36,7 +36,7 @@ The major aim of thie project is to gain insight into the Pizza store dataset an
 
 3.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-## 2. Walamart Sales Analysis
+## Project:2. Walamart Sales Analysis
 
 ## Purpose of the Project
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
@@ -111,7 +111,7 @@ This analysis aims to uncover the different customers segments, purchase trends 
 
 4.Which customer type pays the most in VAT?
 
-## 3.HR-Analyis 
+## Project:3.HR-Analyis 
 
 1. What is the gender breakdown of employees in the company?
 
